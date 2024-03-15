@@ -13,10 +13,6 @@ print(student1.name)
 
 
 
-
-
-
-
 class Student:
     def __init__(self):
         self.height = 170
