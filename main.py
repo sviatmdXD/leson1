@@ -25,7 +25,6 @@ class Student:
 nick = Student()
 nick.printer()
 
-class Student:
 
 
 
