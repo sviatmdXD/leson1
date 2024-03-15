@@ -12,6 +12,9 @@ Student.__init__(self=student1)
 print(student1.name)
 
 
+
+
+G
 class Student:
     def __init__(self):
         self.height = 170
