@@ -14,7 +14,9 @@ print(student1.name)
 
 
 
-G
+
+
+
 class Student:
     def __init__(self):
         self.height = 170
