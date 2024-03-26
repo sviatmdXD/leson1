@@ -1,3 +1,4 @@
+Hello teacher
 class Student:
     name="Alex"
     def __int__(self):
